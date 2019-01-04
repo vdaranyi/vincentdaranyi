@@ -59,7 +59,7 @@ const Navbar = class extends React.Component {
           Form Examples
         </Link>
       </div>
-      <div className="navbar-end has-text-centered">
+/*      <div className="navbar-end has-text-centered">
         <a
           className="navbar-item"
           href="https://github.com/AustinGreen/gatsby-netlify-cms-boilerplate"
@@ -69,7 +69,7 @@ const Navbar = class extends React.Component {
           <span className="icon">
             <img src={github} alt="Github" />
           </span>
-        </a>
+        </a> */
       </div>
       </div>
     </div>
