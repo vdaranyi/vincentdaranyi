@@ -69,8 +69,8 @@ const Navbar = class extends React.Component {
           <span className="icon">
             <img src={github} alt="Github" />
           </span>
-        </a> */}
-      </div>
+        </a> 
+      </div> */}
       </div>
     </div>
   </nav>
